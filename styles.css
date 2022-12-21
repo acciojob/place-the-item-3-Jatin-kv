@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.items{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(13, 237, 50);
+}
